@@ -32,17 +32,17 @@
 
 Enter Card Number
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/creditCardsValidator/blob/main/img/ccv1.png)
+![Initial Stage](https://github.com/rrtutors/Credit-Card-Checker-in-CPP/blob/main/img/ccv1.png)
 <br>
 
 if VALID
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/creditCardsValidator/blob/main/img/ccv2.png)
+![Initial Stage](https://github.com/rrtutors/Credit-Card-Checker-in-CPP/blob/main/img/ccv2.png)
 <br>
 
 id NOT VALID
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/creditCardsValidator/blob/main/img/ccv3.png)
+![Initial Stage](https://github.com/rrtutors/Credit-Card-Checker-in-CPP/blob/main/img/ccv3.png)
 <br>
 
 ## Thanks
