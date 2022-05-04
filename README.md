@@ -40,7 +40,7 @@ if VALID
 ![Initial Stage](https://github.com/rrtutors/Credit-Card-Checker-in-CPP/blob/main/img/ccv2.png)
 <br>
 
-id NOT VALID
+if NOT VALID
 <br>
 ![Initial Stage](https://github.com/rrtutors/Credit-Card-Checker-in-CPP/blob/main/img/ccv3.png)
 <br>
